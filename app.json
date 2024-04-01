@@ -75,6 +75,11 @@
         "description": "Fill the link of channel.",
         "value": "https://t.me/Romeo_OP",
         "required": false
+      },
+      "UPSTREAM_REPO": {
+        "description": "REPO ..",
+        "value": "https://github.com/BWFTIME/BWFMUSIC",
+        "required": false
       }
 
     }
