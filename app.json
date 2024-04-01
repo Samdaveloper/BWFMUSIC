@@ -3,7 +3,7 @@
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "repository": "https://github.com/BWFTIME/BWFMUSIC",
     "logo": "https://telegra.ph/file/e745fdaf1966f228582dc.jpg",
-    "keywords": ["pyrogram", "Romeomusicbot", "pytgcall"],
+    "keywords": ["pyrogram", "Bwfmusic", "pytgcall"],
     "stack": "container",
     "env": {
       "API_ID": {
