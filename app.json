@@ -1,0 +1,81 @@
+{
+    "name": "Romeo",
+    "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
+    "repository": "https://github.com/BWFTIME/BWFMUSIC",
+    "logo": "https://telegra.ph/file/e745fdaf1966f228582dc.jpg",
+    "keywords": ["pyrogram", "Romeomusicbot", "pytgcall"],
+    "stack": "container",
+    "env": {
+      "API_ID": {
+        "description": "Get this value from https://my.telegram.org𓆩꯭꯭꯭〭〬🌦⃨⃔⃝🦋",
+        "value": "",
+        "required": true
+      },
+      "API_HASH": {
+        "description": "♦️Get this value from https://my.telegram.org",
+        "value": "",
+        "required": true
+      },
+      "BOT_TOKEN": {
+        "description": "Put Your Bot token from Botfather🔥",
+        "value": "",
+        "required": true
+      },
+      "MONGO_DB_URI": {
+        "description": "⚚‎•👁Get a mongodb url from https://cloud.mongodb.com. Below MONGOdb only for Test Don't Use Otherwise Your Bot Hack By Any Hacker",
+        "value": "",
+        "required": true
+      },
+      "MUSIC_BOT_NAME": {
+        "description": "A name for your Music Bot. You can use special characters🌷",
+        "value": "",
+        "required": true
+      },
+      "HEROKU_API_KEY": {
+        "description": "💨Your Heroku account's API key",
+        "value": "",
+        "required": false
+      },
+      "HEROKU_APP_NAME": {
+        "description": "Your heroku app/bot's name❣️",
+        "value": "",
+        "required": false
+      },
+      "SPOTIFY_CLIENT_ID": {
+        "description": "🕊⃟♥️Spotify Client Id",
+        "value": "",
+        "required": false
+      },
+      "SPOTIFY_CLIENT_SECRET": {
+        "description": "Spotify client secret🥀⍣⃪͜𓆪",
+        "value": "",
+        "required": false
+      },
+      "OWNER_ID": {
+        "description": "🥀The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
+        "value": "",
+        "required": true
+      },
+      "STRING_SESSION": {
+        "description": "💥A Pyrogram String Session. One Assistant is Compulsor💝y.",
+        "value": "",
+        "required": true
+      },
+      "LOG_GROUP_ID": {
+        "description": "❤️Your Log Group ID, add your bot and promote as an admin with full rights 👀",
+        "value": "https://t.me/MUSICBOT_OWNER",
+        "required": true
+      },
+      "SUPPORT_GROUP": {
+        "description": "💌Fill the link of your group..",
+        "value": "",
+        "required": false
+      },
+      "SUPPORT_CHANNEL": {
+        "description": "Fill the link of channel.💌",
+        "value": "https://t.me/BWF_MUSIC1",
+        "required": false
+      }
+
+    }
+}
