@@ -1,5 +1,5 @@
 {
-    "name": "Romeo",
+    "name": "Assistant",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
     "repository": "https://github.com/BWFTIME/BWFMUSIC",
     "logo": "https://telegra.ph/file/e576aa8308c49d945f433.jpg",
