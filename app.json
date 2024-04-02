@@ -68,18 +68,14 @@
       },
       "SUPPORT_GROUP": {
         "description": "Fill the link of your group..",
-        "value": "https://t.me/RomeoBot_OP",
+        "value": "https://t.me/BWF_MUSIC1",
         "required": false
       },
       "SUPPORT_CHANNEL": {
         "description": "Fill the link of channel.",
-        "value": "https://t.me/Romeo_OP",
+        "value": "https://t.me/MUSICBOT_OWNER",
         "required": false
-      },
-      "UPSTREAM_REPO": {
-        "description": "REPO ..",
-        "value": "https://github.com/BWFTIME/BWFMUSIC",
-        "required": false
+      
       }
 
     }
