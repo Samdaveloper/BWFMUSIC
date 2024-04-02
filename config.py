@@ -6,8 +6,8 @@ from os import getenv
 from dotenv import load_dotenv
 from pyrogram import filters
 
-if os.path.exists("Internal"):
-  load_dotenv("Internal")
+if os.path.exists("RJ"):
+  load_dotenv("RJ")
 
 API_ID = int(getenv("API_ID"))
 API_HASH = getenv("API_HASH")
