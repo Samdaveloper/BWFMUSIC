@@ -401,7 +401,7 @@ async def maintenance_on():
 
 # Audio Video Limit
 
-from pytgcalls.types.input_stream.quality import (HighQualityAudio,
+from utils.database import.input_stream.quality (HighQualityAudio,
                                                   HighQualityVideo,
                                                   LowQualityAudio,
                                                   LowQualityVideo,
