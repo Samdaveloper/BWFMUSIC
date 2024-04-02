@@ -8,12 +8,12 @@
     "env": {
       "API_ID": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "25496841",
         "required": true
       },
       "API_HASH": {
         "description": "Get this value from https://my.telegram.org",
-        "value": "",
+        "value": "d7ed3ebb8f4323c37c5ffcac40e677d4",
         "required": true
       },
       "BOT_TOKEN": {
@@ -23,37 +23,37 @@
       },
       "MONGO_DB_URI": {
         "description": "Get a mongodb url from https://cloud.mongodb.com. Below MONGOdb only for Test Don't Use Otherwise Your Bot Hack By Any Hacker",
-        "value": "",
+        "value": "mongodb+srv://Bikash:Bikash@bikash.yl2nhcy.mongodb.net/?retryWrites=true&w=majority",
         "required": true
       },
       "MUSIC_BOT_NAME": {
         "description": "A name for your Music Bot. You can use special characters",
-        "value": "",
+        "value": "Assistant",
         "required": true
       },
       "HEROKU_API_KEY": {
         "description": "Your Heroku account's API key",
-        "value": "",
+        "value": "f0beddd0-f5fd-4b4e-89c6-c0f93253fbcb",
         "required": false
       },
       "HEROKU_APP_NAME": {
         "description": "Your heroku app/bot's name",
-        "value": "",
+        "value": "Assistant",
         "required": false
       },
       "SPOTIFY_CLIENT_ID": {
         "description": "Spotify Client Id",
-        "value": "",
+        "value": "bcfe26b0ebc3428882a0b5fb3e872473",
         "required": false
       },
       "SPOTIFY_CLIENT_SECRET": {
         "description": "Spotify client secret",
-        "value": "",
+        "value": "907c6a054c214005aeae1fd752273cc4",
         "required": false
       },
       "OWNER_ID": {
         "description": "The user id(s) of user(s) whom you would like to add as a OWNER. Multiple values shall be seperated with a space.",
-        "value": "",
+        "value": "6052880487",
         "required": true
       },
       "STRING_SESSION": {
@@ -63,7 +63,7 @@
       },
       "LOG_GROUP_ID": {
         "description": "Your Log Group ID, add your bot and promote as an admin with full rights !",
-        "value": "",
+        "value": "-1001850121521",
         "required": true
       },
       "SUPPORT_GROUP": {
