@@ -226,7 +226,7 @@ async def play_commnd(
                 and not config.SPOTIFY_CLIENT_SECRET
             ):
                 return await mystic.edit_text(
-                    "𝐓𝐡𝐢𝐬 𝐁𝐨𝐭 𝐂𝐚𝐧'𝐭 𝐏𝐥𝐚𝐲 𝐒𝐩𝐨𝐭𝐢𝐟𝐲 𝐓𝐫𝐜𝐤𝐬 𝐨𝐫 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭𝐬 𝐑𝐞𝐩𝐨𝐫𝐭 [ROMEO SUPPORT](https://t.me/RomeoBot_op)."
+                    "𝐓𝐡𝐢𝐬 𝐁𝐨𝐭 𝐂𝐚𝐧'𝐭 𝐏𝐥𝐚𝐲 𝐒𝐩𝐨𝐭𝐢𝐟𝐲 𝐓𝐫𝐜𝐤𝐬 𝐨𝐫 𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭𝐬 𝐑𝐞𝐩𝐨𝐫𝐭 [SUPPORT](https://t.me/Marathi_chatting_friend)."
                 )
             if "track" in url:
                 try:
@@ -349,7 +349,7 @@ async def play_commnd(
                 await rj.stream_call(url)
             except NoActiveGroupCall:
                 await mystic.edit_text(
-                    "There's An Error In The Bot Then Report [ROMEO SUPPORT](https://t.me/RomeoBot_op) AN Error"
+                    "There's An Error In The Bot Then Report [SUPPORT](https://t.me/Marathi_chatting_friend) AN Error"
                 )
                 return await app.send_message(
                     config.LOG_GROUP_ID,
