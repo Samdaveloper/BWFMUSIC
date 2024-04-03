@@ -6,7 +6,7 @@ from Romeo import app
 @app.on_message(filters.command(["github", "git"]))
 async def github(_, message):
     if len(message.command) != 2:
-        await message.reply_text("/git @II_ASHISH_GUPTA_IIl")
+        await message.reply_text("/git @its_me_max")
         return
     username = message.text.split(None, 1)[1]
     URL = f'https://api.github.com/users/{username}'
